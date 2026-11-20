@@ -7,7 +7,7 @@
 **Localize any PC game into any language — with Claude Code skills.**
 Scan a game, extract its text, translate it with context, fix right-to-left rendering and fonts, and ship a reversible patch.
 
-[![CI](https://github.com/YOUR_USERNAME/gamelingo/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/gamelingo/actions)
+[![CI](https://github.com/LechehebDjaafar/gamelingo/actions/workflows/ci.yml/badge.svg)](https://github.com/LechehebDjaafar/gamelingo/actions)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Claude Code Skills](https://img.shields.io/badge/Claude%20Code-skills-8A63D2)](#install)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9%2B-3776AB)](#requirements)
@@ -43,13 +43,13 @@ Claude finds the engine, extracts the strings, translates them with a consistent
 
 ### Option A — Claude Code plugin marketplace
 ```text
-/plugin marketplace add YOUR_USERNAME/gamelingo
+/plugin marketplace add LechehebDjaafar/gamelingo
 /plugin install gamelingo@gamelingo
 ```
 
 ### Option B — install script
 ```bash
-git clone https://github.com/YOUR_USERNAME/gamelingo
+git clone https://github.com/LechehebDjaafar/gamelingo
 cd gamelingo
 ./install.sh            # macOS / Linux
 # .\install.ps1         # Windows PowerShell
