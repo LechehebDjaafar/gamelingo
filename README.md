@@ -10,7 +10,7 @@ Scan a game, extract its text, translate it with context, fix right-to-left rend
 [![CI](https://github.com/LechehebDjaafar/gamelingo/actions/workflows/ci.yml/badge.svg)](https://github.com/LechehebDjaafar/gamelingo/actions)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Claude Code Skills](https://img.shields.io/badge/Claude%20Code-skills-8A63D2)](#install)
-[![Python 3.9+](https://img.shields.io/badge/python-3.9%2B-3776AB)](#requirements)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-3776AB)](#requirements)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 [Install](#install) · [Quick start](#quick-start) · [How it works](#how-it-works) · [Engine support](#engine-support) · [Arabic & RTL](#arabic--rtl-first-class) · [Safety](#safety--legal) · [Contribute](#contributing) · [العربية](README.ar.md)
@@ -60,7 +60,7 @@ Copy every folder inside `skills/` to `~/.claude/skills/` (Windows: `%USERPROFIL
 
 ### Requirements
 - [Claude Code](https://claude.com/claude-code)
-- Python 3.9+
+- Python 3.10+
 - For Arabic / RTL: `python -m pip install -r requirements-rtl.txt`
 - Optional engine tools per game (UABEA, repak, GDRE Tools, unrpa, UndertaleModTool…) — see [engine recipes](skills/gamelingo/references/engines/).
 

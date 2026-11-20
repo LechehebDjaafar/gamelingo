@@ -11,11 +11,11 @@ Thanks for helping players enjoy games in their own language!
 
 ## Setup
 ```bash
-git clone https://github.com/YOUR_USERNAME/gamelingo && cd gamelingo
+git clone https://github.com/LechehebDjaafar/gamelingo && cd gamelingo
 python -m pip install -r requirements-rtl.txt
 make validate test      # or: python tools/validate_skills.py && python -m unittest discover -s tests
 ```
-Scripts use the Python standard library only (RTL features optionally use `arabic-reshaper` and `python-bidi`). Python ≥ 3.9.
+Scripts use the Python standard library only (RTL features optionally use `arabic-reshaper` and `python-bidi`). Python ≥ 3.10.
 
 ## Rules
 1. **No game files, no copyrighted text.** Test fixtures must be synthetic.

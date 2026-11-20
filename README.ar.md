@@ -15,7 +15,7 @@
 
 ## التثبيت
 ```text
-/plugin marketplace add YOUR_USERNAME/gamelingo
+/plugin marketplace add LechehebDjaafar/gamelingo
 /plugin install gamelingo@gamelingo
 ```
 أو شغّل `./install.sh` (ويندوز: `.\install.ps1`). للعربية: `python -m pip install -r requirements-rtl.txt`

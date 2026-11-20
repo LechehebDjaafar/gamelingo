@@ -12,4 +12,4 @@
 
 **What happens after a game update?** Updates (and "Verify integrity") overwrite patched files. Re-apply the overlay.
 
-**Do I need to know Python?** No; Claude runs the scripts. Python 3.9+ must be installed.
+**Do I need to know Python?** No; Claude runs the scripts. Python 3.10+ must be installed.

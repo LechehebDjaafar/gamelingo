@@ -119,6 +119,9 @@ def find_custom(roots: list[str]) -> list[dict]:
 
 
 def main() -> int:
+    for _stream in (sys.stdout, sys.stderr):
+        if hasattr(_stream, "reconfigure"):
+            _stream.reconfigure(encoding="utf-8", errors="replace")
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--name", help="case-insensitive name filter")
     ap.add_argument("--root", action="append", default=[], help="extra folder whose sub-folders are games")
