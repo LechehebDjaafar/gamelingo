@@ -1,0 +1,21 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: demo\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+#: menu
+msgid "Continue"
+msgstr ""
+
+msgctxt "menu"
+msgid "Options"
+msgstr ""
+
+msgid "You found %d coins and a very long description that "
+"continues on the next line."
+msgstr ""
+
+msgid "Item"
+msgid_plural "Items"
+msgstr[0] ""
+msgstr[1] ""

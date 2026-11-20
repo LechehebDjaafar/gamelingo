@@ -1,0 +1,15 @@
+{
+  "language": "ar",
+  "notes": "Keys are source terms (matched case-insensitively as whole words). Values are the required translation. Used by qa_check.py --glossary.",
+  "terms": {
+    "Health": "الصحة",
+    "Mana": "المانا",
+    "Save Game": "حفظ اللعبة"
+  },
+  "do_not_translate": ["HP", "MP", "XP"],
+  "style": {
+    "register": "neutral modern standard",
+    "address": "second person, singular, gender-neutral where possible",
+    "numerals": "western"
+  }
+}

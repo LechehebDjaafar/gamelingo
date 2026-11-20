@@ -1,0 +1,1 @@
+{"displayName":"Moonlit Valley","events":[null,{"id":1,"name":"EV001","pages":[{"list":[{"code":101,"parameters":["Actor1",0,0,2]},{"code":401,"parameters":["\\N[1]: The bridge is out, {player}."]},{"code":401,"parameters":["Take the <b>north path</b> instead!"]},{"code":0,"parameters":[]}]}]}]}

@@ -1,0 +1,6 @@
+key,en,fr
+ui.start,Start Game,Commencer
+ui.quit,Quit,Quitter
+ui.score,Score: %d points,Score : %d points
+quest.intro,"Welcome, {player}!
+Your journey begins.",

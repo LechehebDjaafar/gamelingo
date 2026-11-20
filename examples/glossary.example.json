@@ -1,0 +1,10 @@
+{
+  "language": "ar",
+  "notes": "Terms that must always be translated the same way. Keys are matched case-insensitively against the source.",
+  "terms": {
+    "Moonlit Valley": "وادي القمر",
+    "Lantern Keeper": "حارس الفوانيس",
+    "Gold": "ذهب"
+  },
+  "do_not_translate": ["Moonlight Courier", "HP", "MP"]
+}

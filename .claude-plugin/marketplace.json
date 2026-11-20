@@ -1,0 +1,11 @@
+{
+  "name": "gamelingo",
+  "owner": { "name": "YOUR_NAME" },
+  "plugins": [
+    {
+      "name": "gamelingo",
+      "source": "./",
+      "description": "Game localization pipeline for Claude Code: any game, any language, with first-class Arabic/RTL support."
+    }
+  ]
+}

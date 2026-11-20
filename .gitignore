@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+dist/
+gamelingo-work/
+*.bak
+.DS_Store
+Thumbs.db
+# Never commit game files or backups
+backups/
+*.pak
+*.pck
+*.rpa
+*.asar
+data.win
